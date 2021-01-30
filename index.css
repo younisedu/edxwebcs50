@@ -1,0 +1,28 @@
+a{
+    margin-top: 5px;
+    color: blue;
+    text-decoration: none;
+}
+div{
+
+    padding-left:35%;
+    padding-top:9%;
+}
+form{
+    padding-left:10%;
+}
+.search_input{
+
+width: 10cm;
+
+height:15px;
+
+}
+.search_button{
+
+    margin-left: 016%;
+    margin-top: 2%;
+    width: 3cm;
+
+
+}

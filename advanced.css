@@ -1,0 +1,33 @@
+form{
+    padding-left:15%;
+    padding-top: 5%;
+
+
+}
+input{
+margin-top: 40px;
+margin-left: 10%;
+ width: 15cm;
+ height: 18px;
+
+}
+.in2{
+    margin-left:5%;
+}
+.in3{
+    margin-left: 8%;
+}
+.in4{
+    margin-left: 7.5%;
+}
+.btn{
+    width: 3.5cm;
+    padding-bottom: 3px;
+    padding-top:3;
+    height:40px;
+    border-radius: 5px;
+    border-style: initial;
+    background-color: rgba(17, 17, 245, 0.842);
+    color:white;
+    margin-left: 55%;
+}
